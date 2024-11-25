@@ -9,5 +9,4 @@ class JpabookApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
